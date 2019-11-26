@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/math
+END
+op.normal.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/math/op.normal.vert.glsl
+END
+op.normal.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/math/op.normal.frag.glsl
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/material
+END
+blinn.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/blinn.vert.glsl
+END
+wrapped.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/wrapped.vert.glsl
+END
+badprint.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/badprint.frag.glsl
+END
+badprint.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/badprint.vert.glsl
+END
+wood.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/wood.frag.glsl
+END
+aniso.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/aniso.frag.glsl
+END
+wood.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/wood.vert.glsl
+END
+aniso.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/aniso.vert.glsl
+END
+toon.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/toon.frag.glsl
+END
+toon.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/toon.vert.glsl
+END
+glossy.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/glossy.frag.glsl
+END
+glossy.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/glossy.vert.glsl
+END
+reflect.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/trunk/glslang/shaders/material/reflect.frag.glsl
+END
+reflect.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/trunk/glslang/shaders/material/reflect.vert.glsl
+END
+lambert.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/lambert.frag.glsl
+END
+facingratio.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/facingratio.frag.glsl
+END
+lambert.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/lambert.vert.glsl
+END
+facingratio.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/facingratio.vert.glsl
+END
+simple.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/trunk/glslang/shaders/material/simple.frag.glsl
+END
+simple.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/trunk/glslang/shaders/material/simple.vert.glsl
+END
+fresnel.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/fresnel.frag.glsl
+END
+fresnel.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/fresnel.vert.glsl
+END
+gooch.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/gooch.frag.glsl
+END
+mat.oren-nayer.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/material/mat.oren-nayer.frag.glsl
+END
+mat.oren-nayer.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/material/mat.oren-nayer.vert.glsl
+END
+gooch.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/gooch.vert.glsl
+END
+wrapped.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/wrapped.frag.glsl
+END
+blinn.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/trunk/glslang/shaders/material/blinn.frag.glsl
+END

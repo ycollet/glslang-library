@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/color
+END
+cc.tonemap.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/color/cc.tonemap.frag.glsl
+END
+cc.tonemap.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/color/cc.tonemap.vert.glsl
+END
+cc.brcosa.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/color/cc.brcosa.frag.glsl
+END
+cc.brcosa.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/color/cc.brcosa.vert.glsl
+END
+cc.charmap.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/color/cc.charmap.frag.glsl
+END
+cc.charmap.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/color/cc.charmap.vert.glsl
+END

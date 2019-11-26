@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9/trunk/trunk/glslang/test/textures
+END
+cube-front.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/trunk/glslang/test/textures/cube-front.png
+END
+cube-left.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/trunk/glslang/test/textures/cube-left.png
+END
+cube-right.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/trunk/glslang/test/textures/cube-right.png
+END
+mat.oren-nayer.lut.exr
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9/trunk/trunk/glslang/test/textures/mat.oren-nayer.lut.exr
+END
+cube-back.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/trunk/glslang/test/textures/cube-back.png
+END
+cube-top.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/trunk/glslang/test/textures/cube-top.png
+END
+cube-bottom.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/trunk/glslang/test/textures/cube-bottom.png
+END

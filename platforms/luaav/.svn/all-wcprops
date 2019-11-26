@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav
+END
+sim.water.shl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/sim.water.shl
+END
+gm.normal.shl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/gm.normal.shl
+END
+cf.sobel.shl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/cf.sobel.shl
+END
+cc.brcosa.shl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/cc.brcosa.shl
+END
+gm.bspline.shl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/gm.bspline.shl
+END
+mat.oren-nayer.shl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/mat.oren-nayer.shl
+END
+cc.charmap.shl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/cc.charmap.shl
+END
+vd.billboard.shl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/vd.billboard.shl
+END
+op.normal.shl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/op.normal.shl
+END
+co.xfade.shl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/co.xfade.shl
+END
+cc.tonemap.shl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/cc.tonemap.shl
+END
+co.accum.shl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/trunk/glslang/platforms/luaav/co.accum.shl
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/geometry
+END
+gm.bspline.geom.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/geometry/gm.bspline.geom.glsl
+END
+gm.normal.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/geometry/gm.normal.frag.glsl
+END
+gm.normal.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/geometry/gm.normal.vert.glsl
+END
+gm.bspline.frag.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/geometry/gm.bspline.frag.glsl
+END
+gm.bspline.vert.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/geometry/gm.bspline.vert.glsl
+END
+gm.normal.geom.glsl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9/trunk/trunk/glslang/shaders/geometry/gm.normal.geom.glsl
+END
