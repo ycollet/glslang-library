@@ -1,76 +1,0 @@
-10
-
-dir
-9
-http://glslang-library.googlecode.com/svn/trunk/trunk/glslang/shaders
-http://glslang-library.googlecode.com/svn
-
-
-
-2008-04-30T04:52:17.129176Z
-9
-wesley.hoke
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-d21ce47e-b043-0410-8c53-bd77829ea0dd
-
-color
-dir
-
-specialfx
-dir
-
-convolution
-dir
-
-gpgpu
-dir
-
-temporal
-dir
-
-simulation
-dir
-
-vertdisplace
-dir
-
-generator
-dir
-
-math
-dir
-
-transition
-dir
-
-geometry
-dir
-
-material
-dir
-
-audio
-dir
-
-composite
-dir
-
-shared
-dir
-
-viz
-dir
-
